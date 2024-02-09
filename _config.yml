@@ -1,5 +1,5 @@
 title: kazuki's docs
-description: A Jekyll theme for documentation
+description: documentation here's description.
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://github.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: kazutax/docs # for github-metadata
