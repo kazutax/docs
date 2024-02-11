@@ -1,6 +1,6 @@
 title: kazuki's docs
 description: documentation here's description.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /docs # the subpath of your site, e.g. /blog
 url: "https://kazutax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: /docs/ # for github-metadata
 
